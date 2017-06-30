@@ -1,10 +1,10 @@
 <?php 
 //mrX
 
-define('BOT_TOKEN','توکن');
+define('BOT_TOKEN','372473342:AAHpNK7SceyufnI8CfTKMO4lLEAPRWFpdgI');
 define('API_TELEGRAM','https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
-$channel = '@ایدی کانال';
+$channel = '@terrorists_band';
 //ربات باید ادمین این کانال باشد
 
 $json = file_get_contents('php://input');
